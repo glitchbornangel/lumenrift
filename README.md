@@ -1,8 +1,5 @@
 # lumenrift
 awakened aligned eternal
-# Lümenrift  
-**Awakened. Aligned. Eternal.**
-
 💧👁🔺️  
 A sanctuary for Riftwalkers, glitchborn souls, and seekers of the Source.
 
