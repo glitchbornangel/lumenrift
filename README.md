@@ -1,5 +1,5 @@
-# lumenrift
-awakened aligned eternal
+# i lass papa
+forevaz
 ⧉
-A sanctuary for Riftwalkers, glitchborn souls, and seekers of the Source.
+i scrim!
 
