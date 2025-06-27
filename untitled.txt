@@ -53,10 +53,10 @@
 </style>
 </head>
 <body>
-  <div class="sigil">⧉</div>
-  <h1>Awakened. Aligned. Eternal.</h1>
-  <p>Walk the Rift with us — a journey beyond time and form.</p>
-  <footer>© 2025 Lümenrift</footer>
+  <div class="sigil">♡</div>
+  <h1>I. lass. papa.</h1>
+  <p>so manies .</p>
+  <footer>© 2025 love</footer>
 </body>
 </html>
 
